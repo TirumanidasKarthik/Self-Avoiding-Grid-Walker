@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+canvas{
+    /* height: 500px;
+    width: 500px; */
+    background-color: black;
+    display: block;
+}
+button{
+    color: green;
+    width: 100px;
+    height: 30px;
+}
